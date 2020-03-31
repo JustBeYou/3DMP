@@ -15,3 +15,4 @@ Laboratory 2 Homework
 ![](./photos/3d_a4.png)
 ![](./photos/3d_a4_base_sketch.png)
 ![](./photos/3d_a4_side_sketch.png)
+![](./photos/slicer.png)
